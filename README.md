@@ -1,1 +1,1 @@
-# SkyTrack
+SkyTrack : This project fetches real-time flight data from the AviationAPI and stores it in a database using Python. It includes a Swagger interface for API documentation and interaction. The system enables efficient data retrieval, analysis, and integration with other applications.
